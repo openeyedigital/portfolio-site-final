@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://kadalngesot.files.wordpress.com/2011/05/universe-and-planets-digital-art-wallpaper-spring.jpg");
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 2%;
+}
+
+.coming-soon {
+    background-color: transparent;
+    color: white;
+    height: 95vh;
+    width: 95vw;
+    font-size: 4em;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15%;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    transition: 1s;
+    color: rgb(154, 46, 36);
+}
+
+.bio-photos {
+    height: 40vh;
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
